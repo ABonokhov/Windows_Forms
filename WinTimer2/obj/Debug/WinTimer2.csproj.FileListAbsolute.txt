@@ -1,0 +1,10 @@
+D:\С#\lab_9\WinTimer2\bin\Debug\WinTimer2.exe.config
+D:\С#\lab_9\WinTimer2\bin\Debug\WinTimer2.exe
+D:\С#\lab_9\WinTimer2\bin\Debug\WinTimer2.pdb
+D:\С#\lab_9\WinTimer2\obj\Debug\WinTimer2.csprojAssemblyReference.cache
+D:\С#\lab_9\WinTimer2\obj\Debug\WinTimer2.Properties.Resources.resources
+D:\С#\lab_9\WinTimer2\obj\Debug\WinTimer2.UserControlTimer2.resources
+D:\С#\lab_9\WinTimer2\obj\Debug\WinTimer2.csproj.GenerateResource.cache
+D:\С#\lab_9\WinTimer2\obj\Debug\WinTimer2.csproj.CoreCompileInputs.cache
+D:\С#\lab_9\WinTimer2\obj\Debug\WinTimer2.exe
+D:\С#\lab_9\WinTimer2\obj\Debug\WinTimer2.pdb

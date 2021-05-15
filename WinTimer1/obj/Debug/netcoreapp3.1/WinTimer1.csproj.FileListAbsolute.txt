@@ -1,0 +1,15 @@
+D:\С#\lab_9\WinTimer1\bin\Debug\netcoreapp3.1\WinTimer1.exe
+D:\С#\lab_9\WinTimer1\bin\Debug\netcoreapp3.1\WinTimer1.deps.json
+D:\С#\lab_9\WinTimer1\bin\Debug\netcoreapp3.1\WinTimer1.runtimeconfig.json
+D:\С#\lab_9\WinTimer1\bin\Debug\netcoreapp3.1\WinTimer1.runtimeconfig.dev.json
+D:\С#\lab_9\WinTimer1\bin\Debug\netcoreapp3.1\WinTimer1.dll
+D:\С#\lab_9\WinTimer1\bin\Debug\netcoreapp3.1\WinTimer1.pdb
+D:\С#\lab_9\WinTimer1\obj\Debug\netcoreapp3.1\WinTimer1.Form1.resources
+D:\С#\lab_9\WinTimer1\obj\Debug\netcoreapp3.1\WinTimer1.UserControlTimer.resources
+D:\С#\lab_9\WinTimer1\obj\Debug\netcoreapp3.1\WinTimer1.csproj.GenerateResource.cache
+D:\С#\lab_9\WinTimer1\obj\Debug\netcoreapp3.1\WinTimer1.AssemblyInfoInputs.cache
+D:\С#\lab_9\WinTimer1\obj\Debug\netcoreapp3.1\WinTimer1.AssemblyInfo.cs
+D:\С#\lab_9\WinTimer1\obj\Debug\netcoreapp3.1\WinTimer1.csproj.CoreCompileInputs.cache
+D:\С#\lab_9\WinTimer1\obj\Debug\netcoreapp3.1\WinTimer1.dll
+D:\С#\lab_9\WinTimer1\obj\Debug\netcoreapp3.1\WinTimer1.pdb
+D:\С#\lab_9\WinTimer1\obj\Debug\netcoreapp3.1\WinTimer1.genruntimeconfig.cache
