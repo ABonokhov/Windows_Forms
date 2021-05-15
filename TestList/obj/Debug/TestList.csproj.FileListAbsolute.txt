@@ -1,0 +1,8 @@
+D:\С#\TestList\obj\Debug\TestList.csprojAssemblyReference.cache
+D:\С#\TestList\obj\Debug\TestList.UserControl1.resources
+D:\С#\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+D:\С#\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+D:\С#\TestList\bin\Debug\TestList.dll
+D:\С#\TestList\bin\Debug\TestList.pdb
+D:\С#\TestList\obj\Debug\TestList.dll
+D:\С#\TestList\obj\Debug\TestList.pdb

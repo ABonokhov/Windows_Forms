@@ -1,0 +1,16 @@
+D:\С#\lab_8\WinLinkLabel\bin\Debug\netcoreapp3.1\WinLinkLabel.exe
+D:\С#\lab_8\WinLinkLabel\bin\Debug\netcoreapp3.1\WinLinkLabel.deps.json
+D:\С#\lab_8\WinLinkLabel\bin\Debug\netcoreapp3.1\WinLinkLabel.runtimeconfig.json
+D:\С#\lab_8\WinLinkLabel\bin\Debug\netcoreapp3.1\WinLinkLabel.runtimeconfig.dev.json
+D:\С#\lab_8\WinLinkLabel\bin\Debug\netcoreapp3.1\WinLinkLabel.dll
+D:\С#\lab_8\WinLinkLabel\bin\Debug\netcoreapp3.1\WinLinkLabel.pdb
+D:\С#\lab_8\WinLinkLabel\obj\Debug\netcoreapp3.1\WinLinkLabel.csprojAssemblyReference.cache
+D:\С#\lab_8\WinLinkLabel\obj\Debug\netcoreapp3.1\WinLinkLabel.Form1.resources
+D:\С#\lab_8\WinLinkLabel\obj\Debug\netcoreapp3.1\WinLinkLabel.Form2.resources
+D:\С#\lab_8\WinLinkLabel\obj\Debug\netcoreapp3.1\WinLinkLabel.csproj.GenerateResource.cache
+D:\С#\lab_8\WinLinkLabel\obj\Debug\netcoreapp3.1\WinLinkLabel.AssemblyInfoInputs.cache
+D:\С#\lab_8\WinLinkLabel\obj\Debug\netcoreapp3.1\WinLinkLabel.AssemblyInfo.cs
+D:\С#\lab_8\WinLinkLabel\obj\Debug\netcoreapp3.1\WinLinkLabel.csproj.CoreCompileInputs.cache
+D:\С#\lab_8\WinLinkLabel\obj\Debug\netcoreapp3.1\WinLinkLabel.dll
+D:\С#\lab_8\WinLinkLabel\obj\Debug\netcoreapp3.1\WinLinkLabel.pdb
+D:\С#\lab_8\WinLinkLabel\obj\Debug\netcoreapp3.1\WinLinkLabel.genruntimeconfig.cache

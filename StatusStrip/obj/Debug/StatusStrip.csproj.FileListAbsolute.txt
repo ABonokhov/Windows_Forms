@@ -1,0 +1,10 @@
+D:\С#\lab_8\StatusStrip\bin\Debug\StatusStrip.exe.config
+D:\С#\lab_8\StatusStrip\bin\Debug\StatusStrip.exe
+D:\С#\lab_8\StatusStrip\bin\Debug\StatusStrip.pdb
+D:\С#\lab_8\StatusStrip\obj\Debug\StatusStrip.csprojAssemblyReference.cache
+D:\С#\lab_8\StatusStrip\obj\Debug\StatusStrip.ParentForm.resources
+D:\С#\lab_8\StatusStrip\obj\Debug\StatusStrip.Properties.Resources.resources
+D:\С#\lab_8\StatusStrip\obj\Debug\StatusStrip.csproj.GenerateResource.cache
+D:\С#\lab_8\StatusStrip\obj\Debug\StatusStrip.csproj.CoreCompileInputs.cache
+D:\С#\lab_8\StatusStrip\obj\Debug\StatusStrip.exe
+D:\С#\lab_8\StatusStrip\obj\Debug\StatusStrip.pdb
