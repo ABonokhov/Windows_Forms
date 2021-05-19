@@ -1,0 +1,10 @@
+D:\С#\lab12\PaintProject\bin\Debug\PaintProject.exe.config
+D:\С#\lab12\PaintProject\bin\Debug\PaintProject.exe
+D:\С#\lab12\PaintProject\bin\Debug\PaintProject.pdb
+D:\С#\lab12\PaintProject\obj\Debug\PaintProject.Form1.resources
+D:\С#\lab12\PaintProject\obj\Debug\PaintProject.Properties.Resources.resources
+D:\С#\lab12\PaintProject\obj\Debug\PaintProject.csproj.GenerateResource.cache
+D:\С#\lab12\PaintProject\obj\Debug\PaintProject.csproj.CoreCompileInputs.cache
+D:\С#\lab12\PaintProject\obj\Debug\PaintProject.exe
+D:\С#\lab12\PaintProject\obj\Debug\PaintProject.pdb
+D:\С#\lab12\PaintProject\obj\Debug\PaintProject.csprojAssemblyReference.cache
